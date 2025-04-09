@@ -14,7 +14,11 @@ Vide tutoriais do PI.
 
 ## Geração Z
 
-## Integrantes: <a href="https://www.linkedin.com/in/dandaramonike?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Dandara Monike</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: 
+<a href="https://www.linkedin.com/in/dandaramonike?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Dandara Monike</a>, 
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-verissimo-5613b834a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">João Victor Verissimo</a>, 
+<a href="https://www.linkedin.com/in/lucas-soares-corsino-885306288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Lucas Corsino</a>, 
+<a href="https://www.linkedin.com/in/victorbarq/">Jonathan Paiva</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
