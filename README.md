@@ -16,7 +16,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: 
 
-<a href="https://www.linkedin.com/in/dandaramonike?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="no-underline">Dandara Monike</a>, <a href="https://www.linkedin.com/in/joaovictorverissimo/" class="no-underline">João Victor Verissimo</a>, <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-verissimo-5613b834a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="no-underline">Jonathan Paiva</a> e 
+<a href="https://www.linkedin.com/in/dandaramonike?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="no-underline">Dandara Monike</a>, <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-verissimo-5613b834a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="no-underline">João Victor Verissimo</a>, <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-verissimo-5613b834a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="no-underline">Jonathan Paiva</a> e 
 <a href="https://www.linkedin.com/in/lucas-soares-corsino-885306288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="no-underline">Lucas Soares Corsino</a>
 
 
