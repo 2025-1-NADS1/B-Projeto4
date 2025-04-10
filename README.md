@@ -15,7 +15,24 @@ Vide tutoriais do PI.
 ## Geração Z
 
 ## Integrantes: 
- <a href="https://www.linkedin.com/in/dandaramonike?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Dandara Monike</a>, <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-verissimo-5613b834a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">João Victor Verissimo</a>, <a href="">Jonathan Paiva</a>, <a href="https://www.linkedin.com/in/lucas-soares-corsino-885306288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Lucas Soares Corsino</a>
+
+<a href="https://www.linkedin.com/in/dandaramonike?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="no-underline">Dandara Monike</a>,
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-verissimo-5613b834a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="no-underline">João Victor Verissimo</a>,
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-verissimo-5613b834a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="no-underline">Jonathan Paiva</a> e 
+
+<a href="https://www.linkedin.com/in/lucas-soares-corsino-885306288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="no-underline">Lucas Soares Corsino</a>
+
+
+
+<style>
+  .no-underline {
+    text-decoration: none; /* Remove o sublinhado */
+    color: blue; /* Opcional: Define a cor do link */
+  }
+</style>
+
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
