@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexHome", "FlexHome\FlexHome.csproj", "{677C9D26-C51C-4F01-AA50-E1C94A5A7C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{677C9D26-C51C-4F01-AA50-E1C94A5A7C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677C9D26-C51C-4F01-AA50-E1C94A5A7C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677C9D26-C51C-4F01-AA50-E1C94A5A7C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677C9D26-C51C-4F01-AA50-E1C94A5A7C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35BF0D85-2663-42DF-8722-A39580C6B49A}
+	EndGlobalSection
+EndGlobal
