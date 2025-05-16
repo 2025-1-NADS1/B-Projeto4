@@ -16,17 +16,21 @@ Armazena os dados dos dispositivos instalados nos cômodos da residência.
 
 ---
 
-Tabela: Comando
+Tabela: Comodo
 
-Registra os comandos enviados aos dispositivos pelos usuários.
+Armazena os cômodos da residência onde os dispositivos estão instalados.
 
-| Campo         | Tipo          | Descrição                               |
-|---------------|---------------|-----------------------------------------|
-| id_comando    | INT (PK)      | Identificador único do comando          |
-| acao          | VARCHAR(100)  | Ação executada (ex: "ligar luz")        |
-| data_hora     | DATETIME      | Data e hora da execução                 |
-| id_usuario    | INT (FK)      | Relaciona ao usuário que enviou o comando |
-| id_dispositivo| INT (FK)      | Dispositivo afetado pelo comando        |
+Esquema da Tabela
 
----
- Arquivos `.sql` com as instruções de criação das tabelas podem ser encontrados nesta pasta.
+| Campo       | Tipo         | Descrição                                |
+|-------------|--------------|------------------------------------------|
+| id_comodo   | INT (PK)     | Identificador único do cômodo            |
+| nome        | VARCHAR(100) | Nome do cômodo (ex: Sala de Estar)       |
+
+Exemplo de Dados
+
+```SQL
+INSERT INTO Comodo (nome) VALUES 
+('Sala de Estar'),
+('Cozinha'),
+('Quarto Principal');
