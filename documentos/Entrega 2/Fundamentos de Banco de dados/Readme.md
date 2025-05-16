@@ -2,7 +2,7 @@ Este diretório contém a modelagem física do banco de dados da aplicação de 
 
 ---
 
-📄 Tabela: Dispositivo
+Tabela: Dispositivo
 
 Armazena os dados dos dispositivos instalados nos cômodos da residência.
 
