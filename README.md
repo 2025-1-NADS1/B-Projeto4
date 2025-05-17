@@ -45,10 +45,6 @@ May the force be with you!
 |-->documentos<br>
   &emsp;|-->antigos<br>
   &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
@@ -108,8 +104,8 @@ npm test
 Coloque código do prompt de comnando se for necessário
 ```
 
-## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+## Entrega de Fundamentos de banco de dados
+link <https://chooser-beta.creativecommons.org/> 
 
 ## 🎓 Referências
 
