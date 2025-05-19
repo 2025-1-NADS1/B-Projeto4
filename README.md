@@ -12,7 +12,7 @@ Vide tutoriais do PI.
 
 # Planet Smart - Densenvolvimento de dashboard interativo
 
-## Geração Z
+## Grupo: Geração Z
 
 ## Integrantes: 
 
@@ -26,10 +26,9 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="imagens/Dashboard_telaPrincipal.PNG" alt="NOME DO JOGO" border="0"><br>
+ Feito por <a href="">Grupo: Geração Z</a> <a rel="" href=""></a> <a href=""></a>
 </p>
-
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
@@ -41,7 +40,6 @@ May the force be with you!
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
-|<br>
 |-->documentos<br>
   &emsp;|-->antigos<br>
   &emsp;|Documentação.docx<br>
@@ -51,61 +49,18 @@ May the force be with you!
   &emsp;|-->Frontend<br>
 |readme.md<br>
 
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
-
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
 <b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
+Não há instalação! Apenas executável! (a verificar como será executado)
+ou
 <b>HTML:</b>
-
 Não há instalação!
 Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
-
 ## Entrega de Fundamentos de banco de dados
-link <https://chooser-beta.creativecommons.org/> 
+<b>Link:</b> <https://github.com/2025-1-NADS1/B-Projeto4/blob/06460ff410f265da69f5b45eec99b24680f1ddc0/documentos/Entrega%202/Fundamentos%20de%20Banco%20de%20dados/Readme.md><br>
+<b>Caminho:</b> <documentos/Entrega 2/Fundamentos de Banco de dados/Readme.md> 
 
 ## 🎓 Referências
 
