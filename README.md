@@ -54,7 +54,7 @@ ou
 Não há instalação!
 Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
-## Entrega de Fundamentos de banco de dados
+## 🗃️ Entrega de Fundamentos de banco de dados
 <b>Link:</b> <https://github.com/2025-1-NADS1/B-Projeto4/blob/06460ff410f265da69f5b45eec99b24680f1ddc0/documentos/Entrega%202/Fundamentos%20de%20Banco%20de%20dados/Readme.md><br>
 <b>Caminho:</b> <documentos/Entrega 2/Fundamentos de Banco de dados/Readme.md> 
 
