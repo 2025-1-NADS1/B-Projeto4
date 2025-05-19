@@ -19,19 +19,16 @@ Vide tutoriais do PI.
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
-## Descrição
+## Descrição:
 
 <p align="center">
 <img src="imagens/Dashboard_telaPrincipal.PNG" alt="NOME DO JOGO" border="0"><br>
  Feito por <a href="">Grupo: Geração Z</a> <a rel="" href=""></a> <a href=""></a>
 </p>
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+Nosso Projeto foi uma proposta de desenvolvimento de um Dashboard de controle de uma Casa/Cidade Inteligente, que fosse pensada para os moradores se autoadministrarem de uma forma Interativa e principalmente Sustentável.<br> 
+(Projeto Interdisciplinar 1 Semestre - ADS)
+
 
 ## 🛠 Estrutura de pastas
 
@@ -49,10 +46,6 @@ May the force be with you!
 
 <b>Windows:</b>
 Não há instalação! Apenas executável! (a verificar como será executado)
-ou
-<b>HTML:</b>
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 🗃️ Entrega de Fundamentos de banco de dados
 <b>Link:</b> <https://github.com/2025-1-NADS1/B-Projeto4/blob/06460ff410f265da69f5b45eec99b24680f1ddc0/documentos/Entrega%202/Fundamentos%20de%20Banco%20de%20dados/Readme.md><br>
@@ -62,9 +55,4 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. <https://github.com/fecaphub/Template_PI>
